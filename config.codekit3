@@ -34,22 +34,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/header\/logo.svg" : {
+    "\/deploy\/img\/header\/SB Logo 1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/header\/logo.svg",
+      "oAP" : "\/deploy\/img\/header\/SB Logo 1.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/heroes\/hero-1.jpg" : {
+    "\/deploy\/img\/heroes\/chase hero.jpg" : {
       "ft" : 16384,
-      "iS" : 480305,
+      "iS" : 1000996,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero-1.jpg",
+      "oAP" : "\/deploy\/img\/heroes\/chase hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -57,12 +57,38 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/heroes\/hero-2.jpg" : {
+    "\/deploy\/img\/heroes\/najee hero.jpg" : {
       "ft" : 16384,
-      "iS" : 1003159,
+      "iS" : 176500,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero-2.jpg",
+      "oAP" : "\/deploy\/img\/heroes\/najee hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/heroes\/pat fry hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 587008,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroes\/pat fry hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/heroes\/tj hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 166171,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroes\/tj hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -169,7 +195,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
