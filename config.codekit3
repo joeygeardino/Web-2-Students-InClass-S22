@@ -44,51 +44,25 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/heroes\/big hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 936062,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroes\/big hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/heroes\/chase hero.jpg" : {
       "ft" : 16384,
       "iS" : 1000996,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/heroes\/chase hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/heroes\/najee hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 176500,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/najee hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/heroes\/pat fry hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 587008,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/pat fry hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/heroes\/tj hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 166171,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/tj hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -174,6 +148,22 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/hero-1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero-1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/hero-2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero-2.html",
+      "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
