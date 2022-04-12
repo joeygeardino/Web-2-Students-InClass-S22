@@ -34,6 +34,71 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/article covers\/ben article.jpg" : {
+      "ft" : 16384,
+      "iS" : 57366,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article covers\/ben article.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/article covers\/draft article.jpg" : {
+      "ft" : 16384,
+      "iS" : 112077,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article covers\/draft article.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/article covers\/fitz article.jpg" : {
+      "ft" : 16384,
+      "iS" : 63435,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article covers\/fitz article.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/article covers\/myles article.jpg" : {
+      "ft" : 16384,
+      "iS" : 66871,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article covers\/myles article.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/article covers\/tj article.jpg" : {
+      "ft" : 16384,
+      "iS" : 74515,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article covers\/tj article.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/header\/SB Logo 1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -148,6 +213,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/articles.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/articles.html",
+      "oF" : 0
     },
     "\/dev\/content\/hero-1.kit" : {
       "cB" : 0,
